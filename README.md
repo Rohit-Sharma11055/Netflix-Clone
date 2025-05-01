@@ -26,5 +26,5 @@ An interacive **Netflix UI clone** that mimics the core front-end design and exp
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
